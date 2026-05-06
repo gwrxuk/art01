@@ -1,3 +1,11 @@
+# 書法 · Calligraphy
+
+## Artist Statement
+
+Jung-Hua Liu creates this work at the intersection of tradition and technology, using Chinese calligraphy as a medium to explore the shifting boundaries of agency between artificial intelligence and the human hand. Each brushstroke — deliberate, irreversible, alive with the weight of the body — stands in tension with the computational systems that now surround and interpret it. By making the characters interactive, the work asks: who authors meaning? Is it the artist who wields the brush, the viewer who touches the screen, or the algorithm that mediates between them? *Art 01* is an inquiry into that uncertain space — where human intent meets machine response, and where neither fully controls what emerges.
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
